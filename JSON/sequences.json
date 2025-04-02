@@ -1,1 +1,64 @@
-[]
+[
+  {
+    "name": "jumping",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.1",
+        "pitch": "C4",
+        "dur": "32n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:2.9",
+        "pitch": "C#4",
+        "dur": "32n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:3.9",
+        "pitch": "G4",
+        "dur": "16n.",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:1.9",
+        "pitch": "B4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "stuck",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.1",
+        "pitch": "Bb4",
+        "dur": "32n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:2.9",
+        "pitch": "F4",
+        "dur": "32n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:3.9",
+        "pitch": "D#4",
+        "dur": "16n",
+        "vel": "1"
+      },
+      {
+        "time": "0:1:1.9",
+        "pitch": "C4",
+        "dur": "4n",
+        "vel": "1"
+      }
+    ]
+  }
+]
